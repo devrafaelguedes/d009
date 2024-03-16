@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
