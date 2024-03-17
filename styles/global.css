@@ -29,3 +29,8 @@ ul li {
 img {
     filter: drop-shadow(4px 4px 4px black);
 }
+
+h1 {
+    color: white;
+    filter: drop-shadow(4px 4px 4px black);
+}
