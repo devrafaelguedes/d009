@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: lightblue;
+    background-color: darkblue;
     display: flex;
     flex-direction: column;
     justify-content: center;
